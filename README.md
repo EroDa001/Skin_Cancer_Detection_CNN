@@ -4,16 +4,6 @@ This project implements a deep learning model for automatic melanoma detection f
 
 ## Dataset
 - **Source:** [Kaggle – Melanoma Skin Cancer Dataset of 10,000 Images](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images)
-- **Structure:**
-- 
-
-train/
-├── benign/
-└── malignant/
-test/
-├── benign/
-└── malignant/
-
 
 - **Size:**
 - 9,600 images for training  
